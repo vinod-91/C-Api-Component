@@ -1,0 +1,10 @@
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\RedisConfig.dll.config
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\RedisConfig.dll
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\RedisConfig.pdb
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\StackExchange.Redis.DataTypes.dll
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\StackExchange.Redis.dll
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\bin\Debug\StackExchange.Redis.xml
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\obj\Debug\RedisConfig.dll
+C:\Users\vinod\documents\visual studio 2017\Projects\CustoDL\RedisConfig\obj\Debug\RedisConfig.pdb
